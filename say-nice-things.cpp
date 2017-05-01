@@ -1,8 +1,11 @@
 // This is a command line program that will say nice things to you.
 #include <iostream>
+#include <string>
+using namespace std;
 
 int main()
 {
-  std::cout << "You look handsome!" << std::endl;
+  string compliment = "You look handsome!";
+  cout << compliment << endl;
   return 0;
 }

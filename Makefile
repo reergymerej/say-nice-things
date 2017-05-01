@@ -1,2 +1,2 @@
 all:
-	g++ -o say-nice-things say-nice-things.cpp
+	g++ -o say-nice-things.app say-nice-things.cpp
